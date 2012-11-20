@@ -1,4 +1,4 @@
-elggpad v0.8.0
+elggpad v0.8.1
 
 Requires:
 	elgg 1.8 http://elgg.org/download.php
@@ -28,7 +28,7 @@ Configure:
 	Supported languages: English, Spanish.
 	
 Notes: 
-	Huge thanks to Sem for this release, really nice work.  
+	 
 	Etherpad Lite is not included in the plugin, you need to install and configure it separately.
 
 Changes:
